@@ -1,0 +1,2 @@
+click==7.1.2
+click-spinner==0.1.10
